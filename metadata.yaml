@@ -1,0 +1,50 @@
+_repo: The-Closet-of-Sir-Kenelm-Digby-Knight-Opened_16441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Digby, Kenelm
+    birthdate: 1603
+    deathdate: 1665
+    gutenberg_agent_id: '6716'
+    url: http://www.gutenberg.org/2009/agents/6716
+    wikipedia: http://en.wikipedia.org/wiki/Kenelm_Digby
+  editor:
+    agent_name: Macdonell, Anne
+    gutenberg_agent_id: '6717'
+    url: http://www.gutenberg.org/2009/agents/6717
+description: ''
+edition_note: Newly Edited, with Introduction, Notes, and Glossary, by Anne Macdonell
+gutenberg_bookshelf:
+- Crafts
+- Cookery
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16441'
+  lccn: a 22000133
+language: en
+publication_note: "London: Philip Lee Warner\r\n38 Albemarle Street, W. 1910"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Digby, Kenelm, Sir, 1603-1665'
+- !lcsh 'Cooking -- Early works to 1800'
+- !lcsh 'Wine and wine making -- Early works to 1800'
+- !lcsh 'Liquors'
+tableOfContents: "Introduction\r\nThe Closet Of Sir Kenelm Digby Opened: Title Page\
+  \ Of The First Edition\r\nTo The Reader\r\nReceipts For Mead, Metheglin, And Other\
+  \ Drinks\r\nCookery Receipts\r\nThe Table\r\nAppendix \r\nI. Some Additional Receipts\r\
+  \nII. The Powder Of Sympathy\r\nIII. List Of The Herbs, Flowers, &c., Referred To\
+  \ In The Text\r\nNotes\r\nGlossary\r\nIndex Of Receipts"
+title: The Closet of Sir Kenelm Digby Knight Opened
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 16441/16441-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/16441
