@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '6717'
     url: http://www.gutenberg.org/2009/agents/6717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16441#The-Closet-of-Sir-Kenelm-Digby-Knight-Opened
 edition_note: Newly Edited, with Introduction, Notes, and Glossary, by Anne Macdonell
 gutenberg_bookshelf:
 - Crafts
